@@ -54,7 +54,12 @@ Overall I'm pleased with the result, but will without a doubt keep expanding on 
 
 ## How to play
 
+### Locally
 Download this repo, and open `index.html`
 The game is only tested on Google Chrome and Opera, but should work for other browsers too.
+
+### Online
+
+You can also play the game here: https://jakobkarlstrand.github.io/AftonbladetCodeTest/ 
 
 
