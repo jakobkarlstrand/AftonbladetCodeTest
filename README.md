@@ -21,6 +21,7 @@ This should be done within a time limit of around 3h.
 Initially I wanted to create a puzzle game with focus on design, animations and level of difficulty where you can choose your own image.
 So I started to layout a design in Figma with this in mind (Full design process can be viewed here if interested https://www.figma.com/file/s8krK3VgWKp16QUCXvUZwx/Untitled?node-id=0%3A1 )
 
+###Inital design
 ![design](https://user-images.githubusercontent.com/53311520/154683540-91c340cd-e888-4678-b883-99bf7112f029.png)
 
 
@@ -30,7 +31,15 @@ This took more time than expected, and resulted in having to scratch some of my 
 
 
 ## Result
+I ended up with a functional puzzle game using the users webcam as puzzle material
 I'm pleased with the result regarding functionality of the basics of the game. However - of course-  there are a lot of points that can be improved. Like design, repsonsiveness, code base and so on.
+
+## Future steps
+Some points I would like to further develop in the puzzle:
+ -   A landing page before the game starts
+ -   Options for increasing/decreasing number of puzzle pieces
+ -   Fancy animations instead of snapping back to place
+ -   Responsiveness
 
 ## Final thoughts
 Definitely a very fun test! I have less experience working with <canvas> so I definitely learned a lot during this session.
