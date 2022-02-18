@@ -52,7 +52,7 @@ Definitely a very fun test! I have less experience working with `<canvas>` so I 
 Overall I'm pleased with the result, but will without a doubt keep expanding on this project in the future.
 
 
-##How to play
+## How to play
 
 Download this repo, and open `index.html`
 The game is only tested on Google Chrome and Opera, but should work for other browsers too.
