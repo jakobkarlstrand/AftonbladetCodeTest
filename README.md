@@ -26,7 +26,7 @@ So I started to layout a design in Figma with this in mind (Full design process 
 
 However, while designing I came over an idea which I really liked. To make the puzzle based on your own webcam feed.
 So I kept the design I created in mind, but started working on the functionality of the webcam puzzle.
-I quickly realized I had probably taken on too much too handle within the time limit, as the webcam functionality took more time than expected, and resulted in having to scratch some of my original ideas, to make it in time.
+I quickly realized I had probably taken on too much to handle within the time limit, as the webcam functionality took more time than expected, and resulted in having to scratch some of my original ideas, to make it in time.
 
 Some assumptions I've made:
  -   The user has a webcam (If no webcam is detected, nothing is drawn)
@@ -44,7 +44,7 @@ Some points I would like to further develop in the puzzle:
  -   Options for increasing/decreasing number of puzzle pieces
  -   Fancy animations instead of snapping back to place
  -   Responsiveness
- -   Add support for using images instead of webcam feed
+ -   Add support for using images in addition to webcam feed
 
 ## Final thoughts
 Definitely a very fun test! I have less experience working with `<canvas>` so I definitely learned a lot during this session.
