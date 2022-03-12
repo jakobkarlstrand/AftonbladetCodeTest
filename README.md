@@ -1,4 +1,4 @@
-# Aftonbladet Code Test - Photo puzzle game
+# Aftonbladet Code Test - Photo puzzle game (with a twist)
 
 
 ## Description
